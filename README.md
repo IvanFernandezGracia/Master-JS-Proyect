@@ -8,6 +8,7 @@ page that applies knowledge about
 
 <!-- Video -->
 ## Video
+https://user-images.githubusercontent.com/48660555/139000714-0e33ef95-8c43-4456-a477-cc8f2a185982.mp4
 
 <!-- Tech -->
 ## Tech
